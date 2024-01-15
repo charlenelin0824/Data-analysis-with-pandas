@@ -1,2 +1,2 @@
 # README decription is here!
-_There are a lot of things I don't understand_
+_Using json, csv, xslx files and pandas to get answers I wanted_
